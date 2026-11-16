@@ -1,0 +1,10 @@
+dias_semana = list()
+
+dias_semana.append("Lunes")
+dias_semana.append("Martes")
+dias_semana.append("Merches")
+dias_semana.append("Jueves")
+dias_semana.append("Viernes")
+dias_semana.append("Sabado")
+dias_semana.append("Domingo")
+print(dias_semana)
